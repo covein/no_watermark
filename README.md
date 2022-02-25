@@ -1,6 +1,5 @@
 # no_watermark 批量去水印 支持多个平台
-> https://time.su27.net
-[网站点我](https://time.su27.net):
+> [网站点我](https://time.su27.net): https://time.su27.net
 
 支持平台:
 
